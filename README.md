@@ -8,7 +8,7 @@ El modelo utilizado es ComplementNB (Naive Bayes Complementario), seleccionado p
 
 ## Requisitos previos
 
-- Python 3.11 o superior
+- **Python 3.11** (la version 3.13 NO es compatible)
 - pip (administrador de paquetes de Python)
 - Docker (opcional, para ejecucion en contenedor)
 
@@ -49,7 +49,13 @@ fcbcb_clasificador_presupuestario/
 
 ## Instalacion
 
-1. Clonar el repositorio o copiar los archivos del proyecto.
+**Importante**: Este proyecto requiere **Python 3.11** (no usar 3.12 ni 3.13).
+
+1. Verificar la version de Python instalada:
+
+```
+python --version
+```
 
 2. Crear un entorno virtual de Python:
 
@@ -59,9 +65,14 @@ python -m venv venv
 
 3. Activar el entorno virtual:
 
-En Windows:
+En Windows (PowerShell):
 ```
-venv\Scripts\activate
+.\venv\Scripts\Activate.ps1
+```
+
+En Windows (CMD):
+```
+venv\Scripts\activate.bat
 ```
 
 En Linux o macOS:
@@ -104,10 +115,10 @@ Guarda este archivo como `data/raw/DATOS ENTRENAMIENTO.csv`.
 El archivo `data/partidas/partidas.csv` contiene la descripcion de cada partida. Asegurate de que este archivo tenga el siguiente formato:
 
 ```
-PARTIDA,descripcion
-21600,Energia Electrica
-22110,Pasajes Aereos
-25600,Imprenta
+PARTIDA;descripcion
+21600;Energia Electrica
+22110;Pasajes Aereos
+25600;Imprenta
 ...
 ```
 
@@ -169,7 +180,25 @@ source venv/bin/activate
 python -m uvicorn api.main:app --reload
 ```
 
-La API estara disponible en `http://localhost:8000`. La documentacion interactiva de Swagger se encuentra en `http://localhost:8000/docs`.
+La API estara disponible en `http://localhost:8000`.
+
+### Probando la API con Swagger
+
+La forma recomendada de probar el clasificador es mediante la interfaz Swagger en:
+
+**`http://localhost:8000/docs`**
+
+Swagger permite:
+- Ver todos los endpoints disponibles
+- Probar el clasificador directamente desde el navegador
+- Visualizar las respuestas JSON de forma estructurada
+
+Para clasificar un item:
+1. Ir a `http://localhost:8000/docs`
+2. Hacer clic en el endpoint `GET /clasificador/clasificar`
+3. Hacer clic en "Try it out"
+4. Ingresar la descripcion del item (ej: "boligrafo micropunta color azul")
+5. Ejecutar y ver la respuesta
 
 ### Endpoints disponibles
 
@@ -262,15 +291,19 @@ Este endpoint permite verificar que la API esta corriendo correctamente. Devuelv
 Desde la raiz del proyecto:
 
 ```
-docker-compose up --build
+docker compose up --build
 ```
 
-La API estara disponible en `http://localhost:8000` y la documentacion Swagger en `http://localhost:8000/docs`.
+La API estara disponible en `http://localhost:8000`.
+
+### Probando con Swagger
+
+Ir a **`http://localhost:8000/docs`** para probar el clasificador desde la interfaz interactiva de Swagger.
 
 ### Detener el contenedor
 
 ```
-docker-compose down
+docker compose down
 ```
 
 ---
