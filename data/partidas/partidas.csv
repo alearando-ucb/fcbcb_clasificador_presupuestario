@@ -1,0 +1,482 @@
+﻿PARTIDA,descripcion
+11000,Empleados Permanentes
+11100,Haberes Básicos
+11200,Bono de Antigüedad
+11210,Categorías Magisterio
+11220,Bono de Antigüedad
+11300,Bonificaciones
+11310,Bono de Frontera
+11320,Remuneraciones Colaterales Médicas y de Trabajadores en Salud
+11321,Categorías Médicas
+11322,Escalafón Médico
+11323,Escalafón de los Trabajadores en Salud
+11324,Otras Remuneraciones
+11330,Otras Bonificaciones
+11331,Pago Variable
+11332,Pago Adicional Fijo
+11339,Otras Bonificaciones
+11400,Aguinaldos
+11500,Primas y Bono de Producción
+11510,Primas
+11520,Bono de Producción
+11600,Asignaciones Familiares
+11700,Sueldos
+11800,Dietas
+11810,Dietas de Directorio
+11820,Otras Dietas
+11900,Otros Servicios Personales
+11910,Horas Extraordinarias
+11920,Vacaciones no Utilizadas
+11930,Incentivos Económicos
+11940,Suplencias
+12000,Empleados No Permanentes
+12100,Personal Eventual
+13000,Previsión Social
+13100,Aporte Patronal al Seguro Social
+13110,Régimen de Corto Plazo (Salud)
+13120,Prima de Riesgo Profesional Régimen de Largo Plazo
+13130,Aporte Patronal Fondo Solidario Régimen de Largo Plazo
+13131,Aporte Patronal Solidario 3.5%
+13132,Aporte Patronal Minero Solidario 2.3%
+13200,Aporte Patronal para Vivienda
+15000,Previsiones para Incremento de Gastos en Servicios Personales
+15100,Incremento Salarial
+15200,Crecimiento Vegetativo
+15300,Creación de Ítems
+15400,Otras Previsiones
+21000,Servicios Básicos
+21100,Comunicaciones
+21200,Energía Eléctrica
+21400,Telefonía
+21500,Gas Domiciliario
+21600,Internet
+22000,Servicios de Transporte y Seguros
+22100,Pasajes
+22110,Pasajes al Interior del País
+22120,Pasajes al Exterior del País
+22200,Viáticos
+22210,Viáticos por Viajes al Interior del País.
+22220,Viáticos por Viajes al Exterior del País.
+22300,Fletes y Almacenamiento
+22400,Gastos de Instalación y Retorno
+22500,Seguros
+22600,Transporte de Personal
+23000,Alquileres
+23100,Alquiler de Inmuebles
+23200,Alquiler de Equipos y Maquinarias
+23300,Alquiler de Tierras y Terrenos
+23400,Otros Alquileres
+24000,"Instalación, Mantenimiento y Reparaciones"
+24100,"Mantenimiento y Reparación de Inmuebles, Muebles y Equipos"
+24110,Mantenimiento y Reparación de Inmuebles
+24120,"Mantenimiento y Reparación de Vehículos, Maquinaria y Equipos"
+24130,Mantenimiento y Reparación de Muebles y Enseres
+24200,Mantenimiento y Reparación de Vías de Comunicación
+24300,"Otros Gastos por Concepto de Instalación, Mantenimiento y Reparación"
+25000,Servicios Profesionales y Comerciales
+25100,"Médicos, Sanitarios y Sociales"
+25120,Gastos Especializados por Atención Médica y Otros
+25130,Gastos por Afiliación de Estudiantes Universitarios al Seguro Social
+25200,"Estudios, Investigaciones, Auditorías Externas y Revalorizaciones"
+25210,Consultorías por Producto
+25220,Consultores Individuales de Línea
+25230,Auditorías Externas
+25300,Comisiones y Gastos Bancarios
+25400,"Lavandería, Limpieza e Higiene"
+25500,Publicidad
+25600,"Servicios de Imprenta, Fotocopiado y Fotográficos"
+25700,Capacitación del Personal
+25800,Estudios e Investigaciones para Proyectos de Inversión No Capitalizables
+25810,Consultorías por Producto
+25820,Consultores Individuales de Línea
+25900,Servicios Manuales
+26000,Otros Servicios No Personales
+26200,Gastos Judiciales
+26300,Derechos sobre Bienes Intangibles
+26500,Conjueces y Jueces Ciudadanos
+26600,Servicio de Seguridad de los Batallones de Seguridad Física de la Policía Bolivi
+26610,Servicios Públicos
+26620,Servicios Privados
+26630,Servicios por Traslado de Valores
+26640,Compensación Económica
+26700,Servicios de Laboratorios Especializados
+26900,Otros Servicios No Personales
+26910,Gastos de Representación
+26920,Fallas de Caja
+26930,Pago por Trabajos Dirigidos y Pasantías
+26940,Compensación Costo de Vida
+26950,Aguinaldo “Esfuerzo por Bolivia”
+27000,Gastos  por  Servicios  Especializados  por  la  Actividad  Extractiva  de  Recu
+27100,"Servicios por la Extracción, Transformación y Conversión de los Recursos Natural"
+27110,Pago por Costos Incurridos
+27120,Pago por Utilidades
+31000,Alimentos y Productos Agroforestales
+31100,"Alimentos y Bebidas para Personas, Desayuno Escolar y Otros"
+31110,"Gastos   por   Refrigerios   al   Personal   Permanente,   Eventual   y   Consul"
+31120,Gastos por Alimentación y Otros Similares
+31130,Alimentación Complementaria Escolar
+31140,"Alimentación Hospitalaria, Penitenciaria, Aeronaves y Otras Específicas"
+31150,Alimentos y Bebidas para la atención de emergencias y desastres naturales.
+31200,Alimentos para Animales
+31300,"Productos Agrícolas, Pecuarios y Forestales"
+32000,"Productos de Papel, Cartón e Impresos"
+32200,Productos de Artes Gráficas
+32300,"Libros, Manuales y Revistas"
+32400,Textos de Enseñanza
+32500,Periódicos y Boletines
+33000,Textiles y Vestuario
+33100,"Hilados, Telas, Fibras y Algodón"
+33200,Confecciones Textiles
+33300,Prendas de Vestir
+33400,Calzados
+34000,"Combustibles, Productos Químicos, Farmacéuticos y Otras Fuentes de Energía"
+34100,"Combustibles, Lubricantes, Derivados y otras Fuentes de Energía"
+34110,"Combustibles, Lubricantes y Derivados para consumo"
+34120,"Combustibles, Lubricantes y Derivados para comercialización"
+34130,Energía Eléctrica para Comercialización
+34200,Productos Químicos y Farmacéuticos
+34300,Llantas y Neumáticos
+34400,Productos de Cuero y Caucho
+34500,Productos de Minerales no Metálicos y Plásticos
+34600,Productos Metálicos
+34700,Minerales
+34800,Herramientas Menores
+34900,Material y Equipo Militar
+39000,Productos Varios
+39100,Material de Limpieza e Higiene
+39200,Material Deportivo y Recreativo
+39300,Utensilios de Cocina y Comedor
+39400,Instrumental Menor Médico-Quirúrgico
+39500,Útiles de Escritorio y Oficina
+39600,"Útiles Educacionales, Culturales y de Capacitación"
+39700,Útiles y Materiales Eléctricos
+39800,Otros Repuestos y Accesorios
+39900,Otros Materiales y Suministros
+39910,Acuñación de Monedas e Impresión de Billetes
+39911,Acuñación de monedas
+39912,Impresión de billetes
+39990,Otros Materiales y Suministros
+41000,Inmobiliarios
+41100,Edificios
+41200,Tierras y Terrenos
+41300,Otras Adquisiciones
+42000,Construcciones
+42200,Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Privado
+42210,Construcciones y Mejoras de Viviendas
+42220,Construcciones y Mejoras para Defensa y Seguridad
+42230,Otras Construcciones y Mejoras de Bienes Públicos de Dominio Privado
+42240,Supervisión de Construcciones y Mejoras de Bienes Públicos de Dominio Privado Ga
+42300,Construcciones y Mejoras de Bienes Nacionales de Dominio Público
+42310,Construcciones y Mejoras de Bienes de Dominio Público
+42320,Supervisión de Construcciones y Mejoras de Bienes de Dominio Público
+42400,Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Privado - Llav
+42500,Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Público - Llav
+43000,Maquinaria y Equipo
+43100,Equipo de Oficina y Muebles
+43110,Equipo de Oficina y Muebles
+43120,Equipo de Computación
+43200,Maquinaria y Equipo de Producción
+43300,"Equipo de Transporte, Tracción y Elevación"
+43310,Vehículos Livianos para Funciones Administrativas
+43320,Vehículos Livianos para Proyectos de Inversión Pública
+43330,Maquinaria y Equipo de Transporte
+43340,Equipo de Elevación
+43400,Equipo Médico y de Laboratorio
+43500,Equipo de Comunicación
+43600,Equipo Educacional y Recreativo
+43700,Otra Maquinaria y Equipo
+46000,Estudios y Proyectos para Inversión
+46100,Para Construcciones de Bienes Públicos de Dominio Privado
+46110,Consultoría por Producto para Construcciones de Bienes Públicos de Dominio
+46120,Consultoría  de  Línea  para  Construcciones  de  Bienes  Públicos  de  Dominio
+46200,Para Construcciones de Bienes de Dominio Público
+46210,Consultoría por Producto para Construcciones de Bienes Públicos de Dominio
+46220,Consultoría de Línea para Construcciones de Bienes Públicos de Dominio Público.
+46300,"Consultoría para capacitación, transferencia de tecnología y organización para p"
+46310,Consultoría por Producto
+46320,Consultoría de Línea
+49000,Otros Activos
+49100,Activos Intangibles
+49300,Activos de Origen Animal
+49400,Activos Museológicos y Culturales
+49500,Activos de Origen Vegetal
+51000,"Compra de Acciones, Participaciones de Capital e Inversiones"
+51100,Acciones y Participaciones de Capital en Empresas Privadas Nacionales
+51200,Acciones y Participaciones de Capital en Empresas Públicas Nacionales
+51300,Acciones y Participaciones de Capital en Empresas Públicas Territoriales
+51310,Del Gobierno Autónomo Departamental
+51320,Del Gobierno Autónomo Municipal
+51330,Del Gobierno Autónomo Indígena Originario Campesino
+51340,Del Gobierno Autónomo Regional
+51500,Acciones y Participaciones de Capital en Instituciones Públicas Financieras No B
+51600,Acciones y Participaciones de Capital en Instituciones Públicas Financieras Banc
+51700,Acciones y Participaciones de Capital en Organismos Internacionales
+51800,Otras Acciones y Participaciones de Capital en el Exterior
+51900,Inversiones en el Exterior
+52000,Concesión de Préstamos a Corto Plazo al Sector Público No Financiero
+52100,Concesión de Préstamos a Corto Plazo a los Órganos del Estado Plurinacional
+52200,Concesión de Préstamos a Corto Plazo a Instituciones Públicas Descentralizadas
+52400,Concesión de Préstamos a Corto Plazo a Entidades Territoriales Autónomas
+52410,Gobierno Autónomo Departamental
+52420,Gobierno Autónomo Municipal
+52430,Gobierno Autónomo Indígena Originario Campesino
+52440,Gobierno Autónomo Regional
+52600,Concesión de Préstamos a Corto Plazo a Instituciones de Seguridad Social
+52700,Concesión de Préstamos a Corto Plazo a Empresas Públicas Nacionales
+52800,Concesión de Préstamos a Corto Plazo a Empresas Públicas Territoriales
+52810,Del Gobierno Autónomo Departamental
+52820,Del Gobierno Autónomo Municipal
+52830,Del Gobierno Autónomo Indígena Originario Campesino
+52840,Del Gobierno Autónomo Regional
+53000,Concesión de Préstamos a Largo Plazo al Sector Público No Financiero
+53100,Concesión de Préstamos a Largo Plazo a los Órganos del Estado Plurinacional
+53200,Concesión de Préstamos a Largo Plazo a Instituciones Públicas Descentralizadas
+53400,Concesión de Préstamos a Largo Plazo a Entidades Territoriales Autónomas
+53410,Gobierno Autónomo Departamental
+53420,Gobierno Autónomo Municipal
+53430,Gobierno Autónomo Indígena Originario Campesino
+53440,Gobierno Autónomo Regional
+53600,Concesión de Préstamos a Largo Plazo a Instituciones de Seguridad Social
+53700,Concesión de Préstamos a Largo Plazo a Empresas Públicas Nacionales
+53800,Concesión de Préstamos a Largo Plazo a Empresas Públicas Territoriales
+53810,Del Gobierno Autónomo Departamental
+53820,Del Gobierno Autónomo Municipal
+53830,Del Gobierno Autónomo Indígena Originario Campesino
+53840,Del Gobierno Autónomo Regional
+54000,Concesión de Préstamos al Sector Público Financiero y a los Sectores Privado y d
+54100,Concesión de Préstamos a Corto Plazo a Instituciones Públicas Financieras No Ban
+54200,Concesión de Préstamos a Corto Plazo a Instituciones Públicas Financieras Bancar
+54300,Concesión de Préstamos a Corto Plazo al Sector Privado
+54400,Concesión de Préstamos a Corto Plazo al Exterior
+54600,Concesión de Préstamos a Largo Plazo a Instituciones Públicas Financieras No Ban
+54700,Concesión de Préstamos a Largo Plazo a Instituciones Públicas Financieras Bancar
+54800,Concesión de Préstamos a Largo Plazo al Sector Privado
+54900,Concesión de Préstamos a Largo Plazo al Exterior
+55000,Compra de Títulos y Valores
+55100,Títulos y Valores a Corto Plazo
+55110,Letras del Tesoro
+55120,Bonos del Tesoro
+55200,Títulos y Valores a Largo Plazo
+55210,Letras del Tesoro
+55220,Bonos del Tesoro
+56000,Constitución de Fideicomisos y Servicios Financieros
+56100,Colocación de Fondos en Fideicomiso
+56200,Concesiones de Recursos de Fideicomisos
+56300,Colocación de Fondos por Servicios Financieros
+57000,Incremento de Disponibilidades
+57100,Incremento de Caja y Bancos
+57200,Incremento de Inversiones Temporales
+58000,Incremento de Cuentas y Documentos por Cobrar y Otros Activos Financieros
+58100,Incremento de Cuentas por Cobrar a Corto Plazo
+58200,Incremento de Documentos por Cobrar y Otros Activos Financieros a Corto Plazo Ap
+58210,Incremento de Documentos por Cobrar a Corto Plazo
+58220,Incremento de Otros Activos Financieros a Corto Plazo
+58300,Incremento de Cuentas por Cobrar a Largo Plazo
+58400,Incremento de Documentos por Cobrar y Otros Activos Financieros a Largo Plazo Ap
+58410,Incremento de Documentos por Cobrar a Largo Plazo
+58420,Incremento de Otros Activos Financieros a Largo Plazo
+59000,Afectaciones al Tesoro General de la Nación
+59100,Afectaciones al Tesoro General de la Nación
+61000,Servicio de la Deuda Pública Interna
+61100,Amortización de la Deuda Pública Interna a Corto Plazo
+61200,Intereses de la Deuda Pública Interna a Corto Plazo
+61300,Comisiones y Otros Gastos de la Deuda Pública Interna a Corto Plazo
+61400,Intereses por Mora y Multas de la Deuda Pública Interna a Corto Plazo
+61600,Amortización de la Deuda Pública Interna a Largo Plazo
+61700,Intereses de la Deuda Pública Interna a Largo Plazo
+61800,Comisiones y Otros Gastos de la Deuda Pública Interna a Largo Plazo
+61900,Intereses por Mora y Multas de la Deuda Pública Interna a Largo Plazo
+62000,Servicio de la Deuda Pública Externa
+62100,Amortización de la Deuda Pública Externa a Corto Plazo
+62200,Intereses de la Deuda Pública Externa a Corto Plazo
+62300,Comisiones y Otros Gastos de la Deuda Pública Externa a Corto Plazo
+62400,Intereses por Mora y Multas de la Deuda Pública Externa a Corto Plazo
+62600,Amortización de la Deuda Pública Externa a Largo Plazo
+62700,Intereses de la Deuda Pública Externa a Largo Plazo
+62800,Comisiones y Otros Gastos de la Deuda Pública Externa a Largo Plazo
+62900,Intereses por Mora y Multas de la Deuda Pública Externa a Largo Plazo
+63000,Disminución de Cuentas por Pagar a Corto Plazo
+63100,Disminución de Cuentas por Pagar a Corto Plazo por Deudas Comerciales con Provee
+63200,Disminución de Cuentas por Pagar a Corto Plazo con Contratistas
+63300,Disminución de Cuentas por Pagar a Corto Plazo por Sueldos y Jornales
+63400,Disminución de Cuentas por Pagar a Corto Plazo por Aportes Patronales
+63500,Disminución de Cuentas por Pagar a Corto Plazo por Retenciones
+63600,"Disminución de Cuentas por Pagar a Corto Plazo por Impuestos, Regalías y Tasas"
+63700,Disminución de Cuentas por Pagar a Corto Plazo por Jubilaciones y Pensiones
+63800,Disminución de Cuentas por Pagar a Corto Plazo por Intereses
+63900,Disminución de Otros Pasivos y Otras Cuentas por Pagar a Corto Plazo
+64000,Disminución de Cuentas por Pagar a Largo Plazo
+64100,Disminución de Cuentas por Pagar a Largo Plazo por Deudas Comerciales
+64200,Disminución de Otras Cuentas por Pagar a Largo Plazo
+65000,Gastos Devengados No Pagados – TGN
+65100,Gastos Devengados No Pagados por Servicios Personales
+65200,"Gastos Devengados No Pagados por Servicios No Personales, Materiales y Suministr"
+65210,Gastos Devengados No Pagados por Servicios No Personales
+65220,Gastos Devengados No Pagados por Materiales y Suministros
+65230,Gastos Devengados No Pagados por Activos Reales
+65240,Gastos Devengados No Pagados por Activos Financieros
+65300,Gastos Devengados No Pagados por Transferencias
+65400,Gastos Devengados No Pagados por Retenciones
+65500,Gastos Devengados No Pagados por Intereses Deuda Pública Interna
+65600,Gastos Devengados No Pagados por Intereses Deuda Pública Externa
+65700,Gastos Devengados No Pagados por Comisiones Deuda Pública Interna
+65800,Gastos Devengados No Pagados por Comisiones Deuda Pública Externa
+65900,Otros Gastos Devengados No Pagados
+66000,Gastos Devengados No Pagados – Otras Fuentes
+66100,Gastos Devengados No Pagados por Servicios Personales
+66200,"Gastos Devengados No Pagados por Servicios No Personales, Materiales y Suministr"
+66210,Gastos Devengados No Pagados por Servicios No Personales
+66220,Gastos Devengados No Pagados por Materiales y Suministros
+66230,Gastos Devengados No Pagados por Activos Reales
+66240,Gastos Devengados No Pagados por Activos Financieros
+66250,Gastos Devengados No Pagados por Servicio de la Deuda
+66300,Gastos Devengados No Pagados por Transferencias
+66400,Gastos Devengados No pagados por Retenciones
+66900,Otros Gastos No Pagados
+67000,Obligaciones por Afectaciones al Tesoro General de la Nación
+67100,Obligaciones por Afectaciones al Tesoro General de la Nación
+68000,Disminución de Otros Pasivos
+68200,Pago de Beneficios Sociales
+69000,Devolución de Fondos - Fideicomisos
+69100,Devolución de Fondos - Fideicomiso de Corto Plazo
+69200,Devolución de Fondos - Fideicomiso de Largo Plazo
+71000,Transferencias Corrientes al Sector Privado
+71100,Pensiones y Jubilaciones
+71210,Becas de Estudios Otorgadas a los Servidores Públicos
+71220,Becas de Estudios Otorgadas a los Estudiantes Universitarios
+71230,Becas de Estudios Otorgadas a Particulares
+71300,"Donaciones, Ayudas Sociales y Premios a Personas"
+71500,Subsidios a Personas ó Instituciones Privadas
+71600,Subsidios y Donaciones a Personas e Instituciones Privadas sin Fines de Lucro Su
+71610,A Personas e Instituciones Privadas sin Fines de Lucro
+71630,Otros de Carácter Social Establecidos por Norma Legal
+71700,Subvenciones Económicas a Empresas
+71800,Pensiones Vitalicias
+71900,Transferencias por las Compras de Control Tributario
+72000,Transferencias Corrientes al Sector Público No Financiero por Participación en T
+72200,"Transferencias   Corrientes   a   Instituciones   Públicas   Descentralizadas,  "
+72400,Transferencias Corrientes al Gobierno Autónomo Departamental por Participación e
+72410,Para Educación
+72500,Transferencias Corrientes a los Gobiernos Autónomos Municipales e Indígena Origi
+72510,Para Salud
+73000,Transferencias Corrientes al Sector Público No Financiero por Subsidios o Subven
+73100,Transferencias Corrientes al Órgano Ejecutivo del Estado Plurinacional por Subsi
+73200,"Transferencias Corrientes a los Órganos Legislativo, Judicial y Electoral, Entid"
+73300,Transferencias Corrientes del Fondo Compensatorio Nacional de Salud
+73400,Transferencias   Corrientes   a   Entidades   Territoriales   Autónomas   por   
+73410,Gobierno Autónomo Departamental
+73420,Gobierno Autónomo Municipal
+73430,Gobierno Autónomo Indígena Originario Campesino
+73440,Gobierno Autónomo Regional
+73600,Transferencias   Corrientes   a   Instituciones   de   Seguridad   Social   por 
+73700,Transferencias Corrientes a Empresas Públicas Nacionales por Subsidios o Subvenc
+73800,Transferencias Corrientes a Empresas Públicas de las Entidades Territoriales Aut
+73810,Empresas Públicas Departamentales
+73820,Empresas Públicas Municipales
+73830,Empresas Públicas Indígenas Originarias Campesinas
+73840,Empresas Públicas Regionales
+74000,Transferencias Corrientes al Sector Público Financiero
+74100,Transferencias Corrientes a Instituciones Públicas Financieras No Bancarias
+74200,Transferencias Corrientes a Instituciones Públicas Financieras Bancarias
+75000,Transferencias de Capital al Sector Privado
+75100,Transferencias de Capital a Personas
+75110,En Efectivo
+75120,En Especie
+75200,Transferencias de Capital a Instituciones Privadas sin Fines de Lucro
+75210,A Instituciones Privadas sin Fines de Lucro
+75211,En Efectivo
+75212,En Especie
+75220,Otras de carácter económico – productivo
+75221,En Efectivo
+75222,En Especie
+75300,Transferencias de Capital a Empresas Privadas
+75310,En Efectivo
+75320,En Especie
+77000,Transferencias de Capital al Sector Público No Financiero por Subsidios o Subven
+77100,Transferencias de Capital al Órgano Ejecutivo del Estado Plurinacional por Subsi
+77200,"Transferencias de Capital a los Órganos Legislativo, Judicial y Electoral, Entid"
+77400,Transferencias de Capital a los Gobiernos Autónomos Departamentales y Regional p
+77410,Al Gobierno Autónomo Departamental
+77440,Al Gobierno Autónomo Regional
+77500,Transferencias de Capital a los Gobiernos Autónomos Municipales e Indígena Origi
+77520,Por Patentes Petroleras
+77600,Transferencias de Capital a Instituciones de Seguridad Social por Subsidios o Su
+77700,Transferencias de Capital a Empresas Públicas Nacionales por Subsidios o Subvenc
+77800,Transferencias de Capital a Empresas Públicas de las Entidades Territoriales Aut
+77810,A Empresas Públicas Departamentales
+77820,A Empresas Públicas Municipales
+77830,A Empresas Públicas Indígenas Originarias y Campesinas
+77840,A Empresas Públicas Regionales
+78000,Transferencias de Capital al Sector Público Financiero
+78100,Transferencias de Capital a Instituciones Públicas Financieras No Bancarias
+78200,Transferencias de Capital a Instituciones Públicas Financieras Bancarias
+79000,"Transferencias a Gobiernos Extranjeros, Organismos Internacionales y otros"
+79100,Transferencias  Corrientes  a  Gobiernos  Extranjeros  y  Organismos  Internacio
+79200,Transferencias  Corrientes  a  Gobiernos  Extranjeros  y  Organismos  Internacio
+79300,Otras Transferencias Corrientes al Exterior
+79310,Transferencias al Exterior en Efectivo
+79320,Transferencias al Exterior en Especie
+79400,Transferencias de Capital al Exterior
+79500,Transferencias a Organismos Internacionales
+81000,Renta Interna
+81100,Impuesto sobre las Utilidades de las Empresas
+81200,Impuesto a las Transacciones
+81300,Impuesto al Valor Agregado Mercado Interno
+81400,Impuesto al Valor Agregado Importaciones
+81500,Impuesto a los Consumos Específicos Mercado Interno
+81600,Impuesto a los Consumos Específicos Importaciones
+81700,Impuesto Especial a los Hidrocarburos y sus Derivados Mercado Interno
+81800,Impuesto Especial a los Hidrocarburos y sus Derivados Importación
+81900,Otros Impuestos
+81910,Impuesto a las Salidas Aéreas al Exterior
+81950,Impuesto a la Transmisión Gratuita de Bienes- ITGB
+81960,Impuesto a las Transacciones Financieras – ITF
+82000,Renta Aduanera
+82100,Gravamen Arancelario
+83000,Impuestos Municipales
+83100,Impuesto a la Propiedad de Bienes
+83110,Bienes Inmuebles
+83120,Vehículos Automotores
+83200,Impuesto a las Transferencias onerosas de bienes inmuebles y vehículos automotor
+83210,Bienes Inmuebles
+83220,Vehículos Automotores
+84000,Regalías
+84100,Regalías Mineras
+84200,Regalías por Hidrocarburos
+84230,6% Participación TGN
+84240,11% Sobre Producción por Regalías Departamentales
+84250,1% Sobre Producción para Regalías Compensatoria Departamental
+84300,Regalías Agropecuarias
+84900,Otras Regalías
+85000,"Tasas, Multas y Otros"
+85200,Derechos
+85300,Contribuciones por Mejoras
+85400,Multas
+85500,Intereses Penales
+86000,Patentes
+86100,Patentes
+91000,Intereses de Instituciones Financieras
+91100,Intereses de Instituciones Públicas Financieras no Bancarias
+91200,Intereses de Instituciones Públicas Financieras Bancarias
+92000,Otros Gastos Financieros
+92100,Gastos Financieros por Operaciones con Activos Virtuales
+94000,Beneficios Sociales y Otros
+94100,Indemnización
+94200,Desahucio
+94300,Otros Beneficios Sociales
+95000,Contingencias Judiciales y otras
+95100,Contingencias Judiciales y otras
+96000,Otras Pérdidas y Devoluciones
+96100,Pérdidas en Operaciones Cambiarias
+96200,Devoluciones
+96900,Otras Pérdidas
+97000,Comisiones y Bonificaciones
+97100,Comisiones por Ventas
+97200,Bonificaciones por Ventas
+98000,Retiros de Capital
+98100,Del Sector Público
+98200,Del Sector Privado
+98300,Pago de Dividendos
+99000,Previsiones para Gastos Corrientes y de Capital
+99100,Previsiones para Gastos de Capital
+99200,Previsiones para Gastos Corrientes
